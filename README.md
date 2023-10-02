@@ -1,1 +1,2 @@
-# RPS-Game
+Odin Project Assignment - Rock, Paper, Scissors
+
